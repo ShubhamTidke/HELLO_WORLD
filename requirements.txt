@@ -1,2 +1,9 @@
 gunicorn
 flask
+librosa
+numpy
+pandas
+pickleshare
+pysoundfile
+scikit-learn
+scipy
